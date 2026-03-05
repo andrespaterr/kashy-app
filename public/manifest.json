@@ -1,0 +1,8 @@
+{
+  "short_name": "Kashy",
+  "name": "Kashy — Tu plata bajo control",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6C5CE7",
+  "background_color": "#F5F6FA"
+}
